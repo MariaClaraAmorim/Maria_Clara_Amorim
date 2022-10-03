@@ -26,3 +26,5 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaClaraAmorim&theme=dracula)]()
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaClaraAmorim)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/MariaClaraAmorim/Maria_Clara_Amorim/blob/70d6852a98cea516cc2ba46ebc15ce4019c5de79/github-contribution-grid-snake.svg)
